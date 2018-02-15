@@ -1,0 +1,29 @@
+{
+  "name": "cordova-cameraserver",
+  "version": "",
+  "description": "cordova-cameraserver",
+  "author": "cordova-cameraserver",
+  "contributors": [
+    "x"
+  ],
+  "license": "MIT",
+  "main": "www/CameraServer.js",
+  "homepage": "x",
+  "cordova": {
+    "id": "com.moonware.cameraserver",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=3.8.0"
+    },
+     {
+      "name": "cordova-android",
+      "version": ">=3.8.0"
+    }
+  ]
+}
